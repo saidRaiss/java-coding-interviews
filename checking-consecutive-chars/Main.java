@@ -18,7 +18,7 @@ public class Main {
      * @return boolean
      */
     public static boolean solution(String sequence, int n) {
-        if(sequence == null) {
+        if(sequence == null || n == 0) {
             return false;
         }
         for(char letter : CharHelper.toSet(sequence.toCharArray())) {

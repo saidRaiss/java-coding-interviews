@@ -13,7 +13,7 @@ Examples of input -> output:
 The idea behind this challenge is to create a method or function that takes as input a sequence of letters and an integer N. if the text contains a repeating subsequence of N letters then it returns true else returns false.
 ```java
 public static boolean solution(String sequence, int n) {
-        if(sequence == null) {
+        if(sequence == null || n == 0) {
             return false;
         }
         for(char letter : CharHelper.toSet(sequence.toCharArray())) {
