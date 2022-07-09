@@ -9,6 +9,9 @@ Examples of input -> output:
 - "CABDDACCCA", 2 -> true
 - "CABDACCCA", 2 -> true
 
+### Constraints:
+- The integer N is positive.
+
 ### Proposed Solution:
 The idea behind this challenge is to create a method or function that takes as input a sequence of letters and an integer N. if the text contains a repeating subsequence of N letters then it returns true else returns false.
 ```java
