@@ -26,7 +26,7 @@ public static boolean solution(String sequence, int n) {
     }
 ```
 
-Check out the complete solution in Main class [here](https://github.com/saidRaiss/java-coding-interviews/checking-consecutive-chars/Main.java).
+Check out the complete solution in Main class [here](https://github.com/saidRaiss/java-coding-interviews/blob/main/checking-consecutive-chars/Main.java).
 
 ### Try it out:
 To test the propposed solution, visit any online Java compiler and put the Main class content. [Try it on Codingame platform](https://www.codingame.com/playgrounds/50785/test-java)
