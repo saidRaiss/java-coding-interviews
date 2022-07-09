@@ -1,6 +1,6 @@
 # java-coding-interviews
 
-Feel Free to add a new chalenge 😁!
+Feel Free to add a new challenge 😁!
 
 ## Description:
 
