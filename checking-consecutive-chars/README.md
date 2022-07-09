@@ -3,11 +3,11 @@
 ### Challenge:
 Create a function that takes as input two parameters: a text and an integer then return a boolean.
 Examples of input -> output:
- 1)- "ABBDCA", 2 -> true
- 2)- "BAAABDBB", 3 -> true
- 3)- "BAABDB", 3 -> false
- 4)- "CABDDACCCA", 2 -> true
- 5)- "CABDACCCA", 2 -> true
+- "ABBDCA", 2 -> true
+- "BAAABDBB", 3 -> true
+- "BAABDB", 3 -> false
+- "CABDDACCCA", 2 -> true
+- "CABDACCCA", 2 -> true
 
 ### Proposed Solution:
 The idea behind this challenge is to create a method or function that takes as input a sequence of letters and an integer N. if the text contains a repeating subsequence of N letters then it returns true else returns false.
